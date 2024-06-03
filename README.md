@@ -8,7 +8,7 @@ Passionate about web development, blockchain technologies, machine learning, and
 
 Open to discussing via LinkedIn or email.✨
 
-[Check out my website](https://www.linkedin.com/in/reetesh-deshmukh/)
+[Check out my website](https://reetesh-deshmukh.netlify.app/)
 <br/>
 
 ### Language and Tools : 
