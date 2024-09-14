@@ -28,7 +28,7 @@ Open to discussing via LinkedIn or email.✨
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-###  portfolio's: 
+###  Portfolio's: 
 
 ![Codeforces](https://img.shields.io/badge/-Codeforces-black?logo=Codeforces&style=social)&nbsp;&nbsp;
 ![Codechef](https://img.shields.io/badge/-Codechef-black?logo=Codechef&style=social)&nbsp;&nbsp;
@@ -42,8 +42,8 @@ Open to discussing via LinkedIn or email.✨
 ---
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=REETESHDESHMUKH&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=REETESHDESHMUKH&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=REETESHDESHMUKH&theme=radical&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=REETESHDESHMUKH&show_icons=true&count_private=true&theme=catppuccin_latte&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=REETESHDESHMUKH&layout=compact&hide_border=true&theme=catppuccin_latte&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=REETESHDESHMUKH&theme=catppuccin_latte&hide_border=true&background=FFFFFF00">
   <br>
 </p>
