@@ -42,8 +42,8 @@ Open to discussing via LinkedIn or email.✨
 ---
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=REETESHDESHMUKH&show_icons=true&count_private=true&theme=catppuccin_latte&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=REETESHDESHMUKH&layout=compact&hide_border=true&theme=catppuccin_latte&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="50%" width="auto" src ="https://github-readme-stats-omega-nine-84.vercel.app/api?username=REETESHDESHMUKH&show_icons=true&count_private=true&theme=catppuccin_latte&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats-omega-nine-84.vercel.app/api/top-langs/?username=REETESHDESHMUKH&count_private=true&layout=compact&hide_border=true&theme=catppuccin_latte&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=REETESHDESHMUKH&theme=catppuccin_latte&hide_border=true&background=FFFFFF00">
   <br>
 </p>
